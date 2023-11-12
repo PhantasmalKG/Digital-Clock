@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{ 
+    background-color: navy;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.dc-wrapper{
+    background-color: black;
+    height:200px;
+    width: 1000px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#dg-clock{
+    
+    color: white;
+    font-size: 100px;
+}
